@@ -1,11 +1,6 @@
-![Logo Proyek](readme/1.png)
-
-![Logo Proyek](readme/2.png)
-
-![Logo Proyek](readme/3.png)
-
-![Logo Proyek](readme/4.png)
-
-![apa yang baru]
-![1.konten musik]
-![2.Desain]
+![alt text](https://github.com/IrvanApdila/framework_tugas3/blob/main/public/readme/1.png)
+![alt text](https://github.com/IrvanApdila/framework_tugas3/blob/main/public/readme/2.png)
+![alt text](https://github.com/IrvanApdila/framework_tugas3/blob/main/public/readme/3.png)
+![alt text](https://github.com/IrvanApdila/framework_tugas3/blob/main/public/readme/4.png)
+![alt text](https://github.com/IrvanApdila/framework_tugas3/blob/main/public/readme/5.png)
+![alt text](https://github.com/IrvanApdila/framework_tugas4/blob/main/public/readme/6.png)
